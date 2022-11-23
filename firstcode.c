@@ -2,7 +2,12 @@
 
 int main()
 {
-	printf("first OutPut key>>>\n");
+	while()
+	{
+		sleep(1);
+	}
+
+	print("");
 
 	return 0;
 }
