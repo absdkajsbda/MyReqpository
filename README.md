@@ -29,4 +29,33 @@
 
 门前有棵`苹果树`
 
+编号|游戏名称|销量|价格
+---|:--:|---:|:--:|
+1|原神|10|90
+2|LOL|1050|50
+3|魔兽|90|67
+
+`printf("测试");`
+
+(```)
+      funchtion()
+      {
+          printf("hhahahhah");
+	  funchtion();
+      }
+      funchtion()
+(```)
+```c  
+      #include<stdio.h>
+      int main()
+      {
+      return 0;
+      }
+```
+```python
+      import os;
+```
+```bush 
+      echo "zhixiing"
+```
 
